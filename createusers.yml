@@ -1,7 +1,7 @@
 ---
 - hosts: localhost
   connection: local
-  remote_user: utx10101
+  remote_user: ayush19
   become: yes
   become_method: sudo
   become_user: root
