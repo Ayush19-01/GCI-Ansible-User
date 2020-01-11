@@ -10,7 +10,7 @@ ___The playbook file in this repo is a demo file, just to run the role, the role
 
 4. Open terminal in the directory where createusers.yml is present, run the following command in the terminal
     
-    `$ sudo ansible-playbook createusers.yml`
+    `$ ansible-playbook -k createusers.yml`
     
 5. To log in the user you just created from the terminal type
     
