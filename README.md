@@ -1,6 +1,8 @@
 # GCI-Ansible-User
 ### How to create user with this Ansible Role
 
+___The playbook file in this repo is a demo file, just to run the role, the role exists inside
+
 1. Download or clone the repository.
 
 2. You need a hashed password to run the role successfully, run the following command on the terminal to get a hashed password
