@@ -1,7 +1,7 @@
 # GCI-Ansible-User
 ### How to create user with this Ansible Role
 
-___The playbook file in this repo is a demo file, just to run the role, the role exists inside
+___The playbook file in this repo is a demo file, just to run the role, the role exists inside sample.users___
 
 1. Download or clone the repository.
 
