@@ -1,6 +1,6 @@
  
 galaxy_info:
-  role_name: AutoUser
+  role_name: sample.users
   author: Ayush19
   description: Ansible role to add a  new user in linux
   license: MIT
