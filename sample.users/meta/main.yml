@@ -1,0 +1,34 @@
+ 
+galaxy_info:
+  role_name: AutoUser
+  author: Ayush19
+  description: Ansible role to add a  new user in linux
+  license: MIT
+  min_ansible_version: 2.9.1
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: GenericUNIX
+      versions:
+        - all
+        - any
+    - name: Fedora
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: GenericLinux
+      versions:
+        - all
+        - any
+    - name: Debian
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - users
+    - user
+
+dependencies: []
