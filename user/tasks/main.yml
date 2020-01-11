@@ -1,0 +1,6 @@
+---
+- name: "Add the user {{ item.username }} to the system"
+  user:
+    name: "19ayush19"
+    password: "gci_ayush"
+    shell: /bin/bash
