@@ -1,6 +1,0 @@
----
-- name: "Add a new user to this OS "
-  user:
-    name: "ayush_0119"
-    password: "$6$LzKEduI28zStFUJG$oeaWHdRszK/zGFR8XoXla0JUWMM8VizG890atFPG1zAavvE1k67UKysazR7higLWF0O2lHQmfzSyw3MPO65.D/"#pass=gci_ayush
-    shell: /bin/bash
